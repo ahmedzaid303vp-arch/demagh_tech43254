@@ -32,7 +32,7 @@
     "category": "smartphone",
     "price": 47000.00,
     "description": "مساحة 256 جيجا | رام 12 جيجا | حالة جديد",
-    "image": "default.png",
+    "image": "samsungs24ultra.png",
     "isNew": true
   },
   {
@@ -41,7 +41,7 @@
     "category": "smartphone",
     "price": 56000.00,
     "description": "مساحة 256 جيجا | رام 12 جيجا | حالة جديد",
-    "image": "default.png",
+    "image": "samsungs25ultra.png",
     "isNew": true
   },
   {
@@ -50,7 +50,7 @@
     "category": "smartphone",
     "price": 36000.00,
     "description": "مساحة 512 جيجا | رام 16 جيجا | حالة جديد",
-    "image": "default.png",
+    "image": "oppofindx6pro.png",
     "isNew": true
   }
 ]
